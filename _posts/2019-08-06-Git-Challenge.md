@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git challenge experienced!
+title: Moving a range of commits between branches
 ---
 
 When working with any tool, it is expected that we have a learning curve and, even after it, we take some bad decisions.
