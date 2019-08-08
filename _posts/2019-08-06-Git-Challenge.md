@@ -47,15 +47,15 @@ As most of the feature workload was on a range of commits, I did the following s
 - Created a branch on the last commit of the initial range.
 - Cherry picked the other commits that were separated.
 - Merged the master to the support one (you know, just to resolve conflicts on a safer place). Here I had conflicts, but those due to the time the branch was not updated, expected.
-- merged everything to the master.
+- merged the support branch to master.
 
 ![git-merge-post](https://user-images.githubusercontent.com/15313802/62713458-274b6000-b9d3-11e9-9a16-5a98770442db.png)
 
 Hell yeah, it worked.
 
-As an extra step, before pushing everything, I merged the master to the feature branch. And NO CONFLICTS WITH THE FEATURE WERE FOUND. Just some conflicts with the commits not included on the bundle. Again, EXPECTED.
+As an extra step, before pushing, I merged the master to the feature branch. And NO CONFLICTS WITH THE FEATURE WERE FOUND. Just some conflicts with the commits not included on the bundle. Again, EXPECTED.
 
-I then pushed everything to the remote branch, gave a high five to my coworker and relaxed for some minutes. I deserved.
+I then pushed master to the remote server, gave a high five to my coworker and relaxed for some minutes. I deserved.
 
 We made some mistakes, like using a branch for multiple and huge workloads, having an outdated branch for much time, etc.
 
