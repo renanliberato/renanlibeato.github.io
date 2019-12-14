@@ -3,8 +3,6 @@ layout: post
 title: React Navigation tip!
 ---
 
-Hello you all,
-
 When I started developing multi screen react native applications, I had to deal with a strange interaction: when the user clicked on a navigation button,
 the button would **freeze** on 'clicking' state for some time and then the next screen would be transitioned.
 After some testing and research, I could get to the following recommendations from the docs.
