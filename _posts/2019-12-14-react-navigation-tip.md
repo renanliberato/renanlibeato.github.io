@@ -19,6 +19,6 @@ our  indicator will run smoothly until the official template finishes loading (s
 
 Check the following links with a React JS example that illustrate this concept!
 
-https://codesandbox.io/s/react-navigation-tips-8pdjw
+[CodePen](https://codesandbox.io/s/react-navigation-tips-8pdjw)
 
-Example repo: https://github.com/renanliberato/react-navigation-tips
+[Repository](https://github.com/renanliberato/react-navigation-tips)
