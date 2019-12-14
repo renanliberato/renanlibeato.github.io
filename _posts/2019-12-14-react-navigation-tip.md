@@ -14,10 +14,9 @@ If we load our whole beautiful screen with all the data, components, and animati
 for example, the navigation will be delayed and the user will see your component freezed.
 
 Rendering first the header and a loading indicator is a simple but effective solution for this problem!
-Even if we already have all the data available, if the second render take some time to complete,
-our  indicator will run smoothly until the official template finishes loading (second rendering).
+Even if we already have all the data available, we can take advantage of the loading indicator running smoothly while React Native takes care of loading all the components for the second rendering. We can even add an stylish animation for the additional components revealing to justify even more this approach!
 
-Check the following links with a React JS example that illustrate this concept!
+Check the following links with a React JS example that illustrate this concept:
 
 [CodePen](https://codesandbox.io/s/react-navigation-tips-8pdjw)
 
