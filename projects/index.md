@@ -15,6 +15,10 @@ Simple speed reading web app made with React/Redux that allows you to read a tex
 
 <a href="/projects/fastreader">Check it out!</a>
 
+<a href="https://github.com/renanliberato/fastreader">Github repository</a>
+
+<hr />
+
 #### Simple sketch
 
 A web UI for creating simple diagrams.
