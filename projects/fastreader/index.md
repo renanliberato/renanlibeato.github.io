@@ -10,6 +10,9 @@ layout: page
     max-width: initial;
     
   }
+  a {
+    background-color: initial;
+  }
 </style>
 <div id="root"></div>
 
